@@ -1,0 +1,344 @@
+.tournament--logo {
+	display: inline-block;
+	vertical-align: middle;
+	background-size: 500%;
+}
+
+@media screen and (max-width: 767px) {
+	.tournament--logo {
+		width: 25px;
+		height: 25px;
+	}
+}
+
+.tournament--logo.atp_1000 {
+	background-image: url(/img/sprite.png);
+	background-position: 0px 0px;
+	width: 50px;
+	height: 50px;
+}
+
+.tournament--logo.atp_250 {
+	background-image: url(/img/sprite.png);
+	background-position: -50px 0px;
+	width: 50px;
+	height: 50px;
+	border-radius: 0;
+}
+
+.tournament--logo.atp_500 {
+	background-image: url(/img/sprite.png);
+	background-position: 0px -50px;
+	width: 50px;
+	height: 50px;
+}
+
+.tournament--logo.atp,
+.tournament--logo.atp_challenger,
+.tournament--logo.atp_worldchampionships {
+	background-image: url(/img/sprite.png);
+	background-position: -100px 0px;
+	width: 50px;
+	height: 50px;
+}
+
+.tournament--logo.wta_internationals {
+	background-image: url(/img/sprite.png);
+	background-position: -200px -150px;
+	width: 50px;
+	height: 50px;
+}
+
+.tournament--logo.wta_premier {
+	background-image: url(/img/sprite.png);
+	background-position: 0px -200px;
+	width: 50px;
+	height: 50px;
+}
+
+.tournament--logo.wta_premiermandatory {
+	background-image: url(/img/sprite.png);
+	background-position: -50px -200px;
+	width: 50px;
+	height: 50px;
+}
+
+.tournament--logo.wta_finals {
+	background-image: url(/img/sprite.png);
+	background-position: -200px -100px;
+	width: 50px;
+	height: 50px;
+}
+
+.tournament--logo.wta_elite_trophy,
+.tournament--logo.wta_wta_125k {
+	background-image: url(/img/sprite.png);
+	background-position: -200px -50px;
+	width: 50px;
+	height: 50px;
+}
+
+.tournament--logo.australian_open {
+	background-image: url(/img/sprite.png);
+	background-position: -100px -50px;
+	width: 50px;
+	height: 50px;
+}
+
+.tournament--logo.roland_garros {
+	background-image: url(/img/sprite.png);
+	background-position: -150px -100px;
+	width: 50px;
+	height: 50px;
+}
+
+.tournament--logo.wimbledon {
+	background-image: url(/img/sprite.png);
+	background-position: 0px -150px;
+	width: 50px;
+	height: 50px;
+}
+
+.tournament--logo.us_open {
+	background-image: url(/img/sprite.png);
+	background-position: -100px -200px;
+	width: 50px;
+	height: 39px;
+}
+
+.tournament--logo.badminton_bwf_grade1individualtournaments,
+.tournament--logo.badminton_bwf_grade1teamtournaments,
+.tournament--logo.badminton_bwf_grade2level1,
+.tournament--logo.badminton_bwf_grade2level2,
+.tournament--logo.badminton_bwf_grade2level3,
+.tournament--logo.badminton_bwf_grade2level4,
+.tournament--logo.badminton_bwf_grade2level5,
+.tournament--logo.badminton_bwf_grade2level6,
+.tournament--logo.badminton_bwf_bwfevents,
+.tournament--logo.img_badminton_stream_test_grandprixgold {
+	background-image: url(/img/sprite.png);
+	background-position: 0px -100px;
+	width: 50px;
+	height: 50px;
+}
+
+.tournament--logo.badminton_bwf_worldsuperseries {
+	background-image: url(/img/sprite.png);
+	background-position: -50px -150px;
+	width: 50px;
+	height: 50px;
+}
+
+.tournament--logo.badminton_bwf_worldsuperseriespremier {
+	background-image: url(/img/sprite.png);
+	background-position: -100px -150px;
+	width: 50px;
+	height: 50px;
+}
+
+.tournament--logo.badminton_bwf_grandprixgold {
+	background-image: url(/img/sprite.png);
+	background-position: -150px 0px;
+	width: 50px;
+	height: 50px;
+}
+
+.tournament--logo.euroleague {
+	background-image: url(/img/sprite.png);
+	background-position: -100px -100px;
+	width: 50px;
+	height: 50px;
+}
+
+.tournament--logo.eurocup {
+	background-image: url(/img/sprite.png);
+	background-position: -50px -100px;
+	width: 50px;
+	height: 50px;
+	border-radius: 0;
+}
+
+.tournament--logo.wta_itf {
+	background-image: url(/img/sprite.png);
+	background-position: -200px 0px;
+	width: 50px;
+	height: 50px;
+}
+
+.tournament--logo.atp_nextgenerationfinals {
+	background-image: url(/img/sprite.png);
+	background-position: -50px -50px;
+	width: 50px;
+	height: 50px;
+	border-radius: 0;
+}
+
+.tournament--logo.nitto_atp_tour_finals {
+	background-image: url(/img/sprite.png);
+	background-position: -150px -50px;
+	width: 50px;
+	height: 50px;
+	border-radius: 0;
+}
+
+.tournament--logo.big.atp_1000 {
+	background-image: url(/img/sprite.png);
+	background-position: 0px 0px;
+	width: 70px;
+	height: 70px;
+}
+
+.tournament--logo.big.atp_250 {
+	background-image: url(/img/sprite.png);
+	background-position: -70px 0px;
+	width: 70px;
+	height: 70px;
+	border-radius: 0;
+}
+
+.tournament--logo.big.atp_500 {
+	background-image: url(/img/sprite.png);
+	background-position: 0px -70px;
+	width: 70px;
+	height: 70px;
+}
+
+.tournament--logo.big.atp,
+.tournament--logo.big.atp_challenger,
+.tournament--logo.big.atp_worldchampionships {
+	background-image: url(/img/sprite.png);
+	background-position: -140px 0px;
+	width: 70px;
+	height: 70px;
+}
+
+.tournament--logo.big.wta_internationals {
+	background-image: url(/img/sprite.png);
+	background-position: -280px -210px;
+	width: 70px;
+	height: 70px;
+}
+
+.tournament--logo.big.wta_premier {
+	background-image: url(/img/sprite.png);
+	background-position: 0px -280px;
+	width: 70px;
+	height: 70px;
+}
+
+.tournament--logo.big.wta_premiermandatory {
+	background-image: url(/img/sprite.png);
+	background-position: -70px -280px;
+	width: 70px;
+	height: 70px;
+}
+
+.tournament--logo.big.wta_finals {
+	background-image: url(/img/sprite.png);
+	background-position: -280px -140px;
+	width: 70px;
+	height: 70px;
+}
+
+.tournament--logo.big.wta_elite_trophy,
+.tournament--logo.big.wta_wta_125k {
+	background-image: url(/img/sprite.png);
+	background-position: -280px -70px;
+	width: 70px;
+	height: 70px;
+}
+
+.tournament--logo.big.australian_open {
+	background-image: url(/img/sprite.png);
+	background-position: -140px -70px;
+	width: 70px;
+	height: 70px;
+}
+
+.tournament--logo.big.roland_garros {
+	background-image: url(/img/sprite.png);
+	background-position: -210px -140px;
+	width: 70px;
+	height: 70px;
+}
+
+.tournament--logo.big.wimbledon {
+	background-image: url(/img/sprite.png);
+	background-position: 0px -210px;
+	width: 70px;
+	height: 70px;
+}
+
+.tournament--logo.big.us_open {
+	background-image: url(/img/sprite.png);
+	background-position: -140px -280px;
+	width: 70px;
+	height: 70px;
+}
+
+.tournament--logo.big.badminton_bwf_bwfevents,
+.tournament--logo.big.img_badminton_stream_test_grandprixgold {
+	background-image: url(/img/sprite.png);
+	background-position: 0px -140px;
+	width: 70px;
+	height: 70px;
+}
+
+.tournament--logo.big.badminton_bwf_worldsuperseries {
+	background-image: url(/img/sprite.png);
+	background-position: -90px -270px;
+	width: 90px;
+	height: 90px;
+}
+
+.tournament--logo.big.badminton_bwf_worldsuperseriespremier {
+	background-image: url(/img/sprite.png);
+	background-position: -180px -270px;
+	width: 90px;
+	height: 90px;
+}
+
+.tournament--logo.big.badminton_bwf_grandprixgold {
+	background-image: url(/img/sprite.png);
+	background-position: -210px 0px;
+	width: 70px;
+	height: 70px;
+}
+
+.tournament--logo.big.euroleague {
+	background-image: url(/img/sprite.png);
+	background-position: -140px -140px;
+	width: 70px;
+	height: 70px;
+}
+
+.tournament--logo.big.eurocup {
+	background-image: url(/img/sprite.png);
+	background-position: -70px -140px;
+	width: 70px;
+	height: 70px;
+	border-radius: 0;
+}
+
+.tournament--logo.big.wta_itf {
+	background-image: url(/img/sprite.png);
+	background-position: -280px 0px;
+	width: 70px;
+	height: 70px;
+}
+
+.tournament--logo.big.atp_nextgenerationfinals {
+	background-image: url(/img/sprite.png);
+	background-position: -70px -70px;
+	width: 70px;
+	height: 70px;
+	border-radius: 0;
+}
+
+.tournament--logo.big.nitto_atp_tour_finals {
+	background-image: url(/img/sprite.png);
+	background-position: -210px -70px;
+	width: 70px;
+	height: 70px;
+	border-radius: 0;
+}
